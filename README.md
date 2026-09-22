@@ -1,6 +1,6 @@
 # Hi, I'm Mattia 👋
 
-**Full Stack Developer | Clean Architecture Advocate | Open Source Creator**
+**Full Stack Developer | Clean Architecture Advocate **
 
 I build scalable, deterministic, and highly maintainable software systems. My engineering philosophy is simple: **zero tolerance for spaghetti code.** I strongly advocate for Clean Architecture, Domain-Driven Design (DDD), and CQRS to protect the core business domain from infrastructural churn.
 
