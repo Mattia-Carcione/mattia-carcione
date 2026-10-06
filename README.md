@@ -8,14 +8,14 @@ My engineering philosophy is simple: **zero tolerance for spaghetti code.** I st
 
 ## 🚀 The Xeno Framework
 
-I am the creator of **[Xeno](https://github.com/Mattia-Carcione/xeno-js)**, an enterprise-grade, runtime-agnostic architectural framework for TypeScript. 
+I am the creator of **[Xeno.JS](https://www.xeno-js.it/)**, a Typescript application architecture framework for Node.js. 
 
-Xeno bridges the gap between backend and frontend by enforcing pure Dependency Injection, CQRS pipelines, and strict architectural boundaries across Node.js and Vue.js. It is designed to cure the "Spaghetti State" and bring the rigor of backend architecture natively into the browser.
+Xeno.JS gives TypeScript applications explicit boundaries for domain logic, use cases, dependencies, request context, and cross-cutting execution.
 
 **🤝 Join the Vision:** 
 I am actively looking for **contributors**, **feedback**, and **sponsors** to help expand the Xeno ecosystem. If you care about decoupled architectures and clean code, let's build something great together.
 
-[![Explore Xeno](https://img.shields.io/badge/Explore-Xeno.js-blueviolet?style=for-the-badge)](https://github.com/Mattia-Carcione/xeno-js)
+[![Explore Xeno](https://img.shields.io/badge/Explore-Xeno.js-blueviolet?style=for-the-badge)](https://github.com/xeno-js/xeno-js)
 [![Sponsor Xeno](https://img.shields.io/badge/Sponsor-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/xenojs)
 
 ---
