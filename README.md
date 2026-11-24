@@ -1,63 +1,120 @@
-# Mattia Carcione
+# Ciao, sono Mattia Carcione 👋
 
-Milano (MI), Italy | 06/09/1994 | +39 366 438 59 65 | [MAIL](mattia.carcione01@gmail.com) | 
-[INSTAGRAM](https://www.linkedin.com/in/mattia-carcione-developer)
+**Full Stack Software Developer & Software Architect**  
+*Milan Area, Italy (Hybrid / Remote) • .NET (3.5 – 10) • TypeScript • Node.js • Vue.js • Angular*
 
-## DESCRIZIONE
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mattia-carcione-developer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat-square&logo=vercel)](https://mv-tech-two.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:mattia.carcione01@gmail.com)
 
-Sviluppatore Backend con background scientifico e formazione .NET consolidata come it consultant. All'esperienza pratica ho affiancato un percorso di studi universitari seguendo i principali corsi di informatica (come basi di dati e ingegneria del software) presso l'UniMi e lo studio individuale di Clean Architecture e Pattern Microservices. Sono un professionista altamente motivato, orientato alla scrittura di codice manutenibile e desideroso di crescere in contesti enterprise che valorizzino l'apprendimento continuo e le best practice dello sviluppo software.
+---
 
-## COMPETENZE TECNICHE
+## Chi Sono
 
-- **Framework/Librerie/Linguaggi/Database:** C# (.NET 8/9, .NET Framework 4.x), TypeScript, Node.js, Angular 12-16, Tailwind CSS, Bootstrap, Vue.js, MySQL
-- **Software/Tool:** Visual Studio, VS Code, Git, Postman, GitHub Copilot, SQL Server Management Studio
-- **Metodologie agili:** SCRUM
+Sono un **Full Stack Software Developer** con esperienza sia in ambito consulenziale su sistemi enterprise (settore assicurativo, ecosistema Microsoft `.NET` e microservizi) sia nella progettazione di applicazioni web moderne, veloci e sicure basate su **TypeScript**, **Vue.js**, **Node.js** e sul mio framework open source proprietario **xeno.js**.
 
-## ISTRUZIONE E FORMAZIONE
+Unisco il rigore ingegneristico, la sicurezza applicativa e l'affidabilità tipiche dei contesti enterprise alla velocità, all'ottimizzazione SEO e alla flessibilità del web moderno. Opero con piena autonomia end-to-end, dall'analisi dei requisiti fino al rilascio in produzione.
 
-- **11/2023** Coding Bootcamp per Full Stack Web Developer, Aulab Srl - Bari
-- **04/2021** Laurea Magistrale a ciclo unico in Farmacia, Università degli studi di Pavia - (UniPV)
-- **07/2013** Diploma di Maturità Scientifica, Liceo Scientifico N. Copernico - Pavia
+---
 
-## ESPERIENZE PROFESSIONALI
+## Cosa Faccio: Soluzioni & Servizi Digitali
 
-**IT Consultant - 10/2025 - in corso**
-*Gamma Innovation, Milano - Ibrido / (Prima IT Partner Italia 10/2024-10/2025)*
-Proseguimento dell'attività precedente di Software Web Developer in IT Partner Italia per cliente in ambito assicurativo (cambio datore di lavoro, proseguendo il lavoro che già stavo svolgendo).
-In particolare:
+Progetto e sviluppo soluzioni web su misura orientate alle prestazioni, alla sicurezza e agli obiettivi di business:
 
-- **Sviluppo Processi Batch & Automazione:** Sviluppo di nuovi processi per la gestione dei caricamenti massivi.
-- **Manutenzione Evolutiva e Refactoring:** Gestione di un'architettura complessa a monolite e microservizi, implementando nuove funzionalità e ottimizzando il codice esistente per migliorarne la manutenibilità e la testabilità.
-- **Security & Bug Fixing:** Analisi e risoluzione di vulnerabilità critiche, con focus specifico sulla prevenzione di SQL Injection e Path Traversal, garantendo l'integrità e la sicurezza del sistema.
-- **Integrazione Ecosistema Microservizi:** Operatività in infrastruttura cloud-native. Gestione della migrazione da Axway a Cloud Kong.
-*Principale Stack:* .Net 3.x, 4.x, Core, 8-9, Angular 12, MySQL (SSMS), TypeScript, Git, Postman, TFS, Visual Studio, VS Code, Gihub Copilot
+### 01. Web App & Piattaforme con Login e Pagamenti
+* **Descrizione:** Creazione di siti web dinamici, piattaforme SaaS e dashboard con area riservata sicura, gestione utenti/ruoli e monetizzazione integrata.
+* **Stack:** `Vue.js`, `xeno.js`, `Node.js`, `Supabase`, `PostgreSQL`, `Drizzle ORM`, `Redis`, `Stripe`.
+* **Valore:** Piattaforme pronte per vendere servizi o abbonamenti online, con autenticazione robusta e gestione affidabile dei flussi di pagamento.
 
-**IT Consultant - 09/2024 - 10/2024**
-*ALTEN Italia, Via Gaetano Crespi 12, Milano - Ibrido*
-Analisi e sviluppo di workflow con ArXivar.
+### 02. Assistenti Virtuali & Chatbot IA
+* **Descrizione:** Integrazione di agenti conversazionali intelligenti direttamente su siti web e piattaforme aziendali, capaci di rispondere in tempo reale 24/7 alle domande dei clienti sui servizi, qualificare contatti e supportare gli utenti.
+* **Stack:** `Gemini API`, `Vercel API`, `TypeScript`, `xeno.js`.
+* **Valore:** Automazione del supporto clienti e della lead generation con risposte contestuali e accurate basate sui dati reali del business.
 
-**Stage .NET Developer - 03/2024 - 09/2024**
-*ALTEN Italia, Via Gaetano Crespi 12, Milano - Ibrido*
+### 03. Landing Page ad Altissime Prestazioni & SEO
+* **Descrizione:** Siti web vetrina, Single Page Application (SPA) e landing page ottimizzate maniacalmente per velocità di caricamento, Core Web Vitals e posizionamento sui motori di ricerca (SEO), con sistemi integrati per la raccolta contatti e l'invio di newsletter/email transazionali.
+* **Stack:** `Vue.js`, `Vite SSG`, `SSR`, `Vue Unhead`, `Tailwind CSS`, `Vercel`, Server Dedicati, `Brevo`.
+* **Valore:** Massima visibilità su Google, tempi di caricamento istantanei e flussi automatici di email marketing e contatto.
 
-- **Percorso Formativo Avanzato:** Formazione intensiva su C# e .NET 8/9, focalizzata sulla transizione verso architetture enterprise.
-- **Software Design & Architecture:** Studio e applicazione pratica dei principali Design Pattern (Singleton, Factory, Strategy, Repository) e introduzione ai Pattern Microservices (CQRS, API Gateway, Async Messaging, Pattern Resilience).
-- **Clean Code & SOLID:** Approfondimento delle best practice per la scrittura di codice manutenibile, testabile e disaccoppiato attraverso l'uso costante della Dependency Injection.
+### 04. Dashboard Reattive & Ottimizzate
+* **Descrizione:** Sviluppo di interfacce di controllo avanzate, veloci e altamente reattive, progettate per gestire grandi moli di dati, monitorare metriche di business in tempo reale e automatizzare flussi operativi.
+* **Stack:** `Vue.js`, `TypeScript`, `Tailwind CSS`, `API REST`, `PostgreSQL`, `MySQL`, `MongoDB`.
+* **Valore:** Strumenti interni chiari e intuitivi per prendere decisioni rapide e ridurre il lavoro manuale.
 
-## PROGETTI
+---
 
-**Creatore di Xeno.JS**, Framework open-source per l'architettura di applicazioni TypeScript.
-Ho progettato e implementato un'architettura applicativa modulare Node.js con iniezione di dipendenze a sicurezza di tipo, durata esplicita dei servizi, CQRS, pipeline applicative componibili, contesto a livello di richiesta, limiti di transazione e adattatori di infrastruttura. Sono stati creati controlli a runtime per le dipendenze circolari e captive, la propagazione della cancellazione, i risultati applicativi tipizzati e i comportamenti trasversali come la validazione, l'autorizzazione, l'idempotenza e la memorizzazione nella cache. Ho mantenuto il progetto come un ecosistema open-source con pacchetti NPM pubblicati, documentazione, test automatizzati e strumenti da riga di comando.
-[Link progetto GitHub](https://github.com/xeno-js/core)
+## Come Lavoro: Metodologia in 3 Fasi
 
-## LINGUE
+1. **01 — Ascolto & Analisi (Fase Preliminare)**  
+   Prima di scrivere qualsiasi riga di codice, analizzo attentamente le richieste, gli obiettivi e i requisiti di business per definire l'architettura ideale, prevenendo colli di bottiglia prestazionali e vulnerabilità di sicurezza.
+2. **02 — Progettazione Architetturale (Motore xeno.js / Core)**  
+   Sfrutto un'architettura modulare, avanzata e blindata (basata su **xeno.js** e principi di *Clean Architecture*, *DDD* e *SOLID*), creata per garantire un prodotto veloce, manutenibile, sicuro e nativamente pronto a scalare insieme al business.
+3. **03 — Sviluppo & Integrazione (Delivery & Deployment)**  
+   Passo alla scrittura del codice applicativo integrando frontend reattivi (`Vue.js`), logiche di pagamento (`Stripe`), automazioni email (`Brevo`) e flussi di intelligenza artificiale (`Gemini API`), con deploy su `Vercel` o server dedicati secondo i più alti standard di sicurezza.
 
-- **ITALIANO** - Madrelingua
-- **INGLESE** - Intermedio
+---
 
-## ALTRE INFORMAZIONI
+## Progetti in Evidenza & Open Source
 
-- Frequentazione corsi universitari di Informatica, Università degli Studi di Milano (UniMi); in particolare dei corsi: Programmazione I, Progettazione basi di dati, Ingegneria del software, Algoritmi e strutture dati.
-- Lettura dei principali libri di programmazione: Pattern Microservices (C. Richardson), Domain Driven Desing (E. Evans)
-- Patenti A e B
+### xeno.js — Framework Open Source (`TypeScript` / `Node.js`)
+Framework open source modulare progettato secondo principi di **Clean Architecture**, **Domain-Driven Design (DDD)** e pattern **CQRS**, con una Builder API dichiarativa ispirata all'ecosistema `.NET`.
+* **Pipeline & Resilienza:** Pipeline behavior opt-in per logging, performance, exception handling, caching, concurrency, idempotency e strategie di autorizzazione.
+* **Sicurezza Out-of-the-Box:** Middleware integrati per autenticazione, rate limiting, protezione CSRF, gestione sicura cookie, CORS, preflight e tracciamento del contesto via `AsyncLocalStorage`.
+* **Architettura Agnostica:** IoC container leggero senza decorator o `reflect-metadata` e plugin infrastrutturali intercambiabili (es. passaggio trasparente tra Fastify e Node HTTP server senza toccare la logica di business).
 
-*"Autorizzo il trattamento dei miei dati personali ai sensi del Digs 196 del 30 giugno 2003 e dell'art. 13 GDPR"*
+### Applicazioni Web in Produzione
+* **Portfolio Personale:** Sviluppato con `xeno.js`, `Vue.js`, `SSR` e `Tailwind CSS` su `Vercel`, con integrazione `Brevo` per le comunicazioni email e un assistente conversazionale basato su `Gemini API` alimentato da questo profilo.
+* **Sito Web per Cliente:** Realizzato con stack `xeno.js` e integrazione `Brevo` per l'automazione dei flussi email e contatto.
+
+---
+
+## Esperienza Lavorativa
+
+### IT Consultant — Full Stack Software Developer
+**Gamma Innovation** *(10/2025 – in corso)* / **IT Partner Italia** *(10/2024 – 10/2025)* • *Milano (Ibrido) — Settore Assicurativo*
+* **Automazione Processi:** Progettazione e sviluppo di processi batch per l'automazione di flussi operativi manuali.
+* **Evoluzione Applicativa:** Evoluzione di servizi, API REST e applicativi esistenti in ecosistema **Microsoft .NET (3.5 – 10)**, **ASPX** e **Angular**, garantendo la non regressione e la continuità operativa in produzione.
+* **Application Security:** Analisi e remediation di vulnerabilità applicative critiche, con focus su prevenzione e risoluzione di **SQL Injection** e **Path Traversal**.
+* **Microservizi & API Gateway:** Operatività in infrastruttura cloud-native e gestione della migrazione API Gateway da **Axway** a **Cloud Kong**.
+* **Troubleshooting & Autonomia:** Analisi di sistemi poco documentati per individuare rapidamente la causa radice dei problemi e gestione autonoma end-to-end delle attività nel rispetto delle deadline.
+
+### IT Consultant
+**ALTEN Italia** *(09/2024 – 10/2024)* • *Milano (Ibrido)*
+* Creazione e configurazione di flussi operativi tramite la piattaforma software del cliente.
+
+### Stage .NET Developer
+**ALTEN Italia** *(03/2024 – 09/2024)* • *Milano (Ibrido)*
+* Studio e applicazione pratica di design pattern, architetture enterprise in `.NET`, microservizi, Identity Server e principi **SOLID**, **SRP** e **DRY**.
+
+---
+
+## Stack Tecnologico
+
+* **Linguaggi:** `TypeScript` • `JavaScript` • `C#` • `SQL` • `HTML5` • `CSS3`
+* **Front-End & SEO:** `Vue.js` • `Vite SSG` • `SSR` • `Vue Unhead` • `Angular` • `Tailwind CSS`
+* **Back-End & Architetture:** `Node.js` • `xeno.js` • `.NET (3.5 – 10)` • `ASPX` • `API REST` • `Microservizi` • `Clean Architecture` • `DDD` • `CQRS` • `SOLID / SRP / DRY`
+* **Database, ORM & Cache:** `PostgreSQL` • `Supabase` • `Drizzle ORM` • `MySQL` • `MongoDB` • `Redis`
+* **Security & API Gateway:** `SQL Injection / Path Traversal Remediation` • `Identity Server` • `CSRF / CORS / Rate Limiting` • `Cloud Kong` • `Axway`
+* **Cloud, AI & Integrazioni:** `Vercel` • `Vercel API` • `Server Dedicati` • `Git` • `CI/CD` • `Gemini API` • `Stripe` • `Brevo`
+
+---
+
+## Formazione & Certificazioni
+
+### Formazione
+* **Insegnamenti Universitari in Informatica** — *Università degli Studi di Milano (UniMI)* (frequenza di corsi universitari in ambito informatico)
+* **Laurea Magistrale a ciclo unico in Farmacia** — *Università degli Studi di Pavia (UniPV)* (04/2021)
+* **Diploma di Maturità Scientifica** — *Liceo Scientifico N. Copernico, Pavia* (07/2013)
+
+### Certificazioni & Corsi Specialistici
+* **UXQB Certified Professional for Usability and User Experience - Foundation Level (CPUX-F)** — *iSQI Group* (07/2024)
+* **Foundational C# with Microsoft** — *freeCodeCamp* (06/2024)
+* **Coding Bootcamp per Full Stack Web Developer** — *Aulab Srl, Bari* (11/2023)
+
+---
+
+## Contatti
+
+* **Portfolio:** [tuosito.vercel.app](https://mv-tech-two.vercel.app)
+* **LinkedIn:** [linkedin.com/in/mattia-carcione-developer](https://www.linkedin.com/in/mattia-carcione-developer/)
+* **Email:** [mattia.carcione01@gmail.com](mailto:mattia.carcione01@gmail.com)
