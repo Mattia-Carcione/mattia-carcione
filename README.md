@@ -56,7 +56,7 @@ Progetto e sviluppo soluzioni web su misura orientate alle prestazioni, alla sic
 
 ## Progetti in Evidenza & Open Source
 
-### xeno.js — Framework Open Source (`TypeScript` / `Node.js`)
+### [xeno.js](https://www.xeno-js.it) — Framework Open Source (`TypeScript` / `Node.js`)
 Framework open source modulare progettato secondo principi di **Clean Architecture**, **Domain-Driven Design (DDD)** e pattern **CQRS**, con una Builder API dichiarativa ispirata all'ecosistema `.NET`.
 * **Pipeline & Resilienza:** Pipeline behavior opt-in per logging, performance, exception handling, caching, concurrency, idempotency e strategie di autorizzazione.
 * **Sicurezza Out-of-the-Box:** Middleware integrati per autenticazione, rate limiting, protezione CSRF, gestione sicura cookie, CORS, preflight e tracciamento del contesto via `AsyncLocalStorage`.
@@ -64,7 +64,7 @@ Framework open source modulare progettato secondo principi di **Clean Architectu
 
 ### Applicazioni Web in Produzione
 * **Portfolio Personale:** Sviluppato con `xeno.js`, `Vue.js`, `SSR` e `Tailwind CSS` su `Vercel`, con integrazione `Brevo` per le comunicazioni email e un assistente conversazionale basato su `Gemini API` alimentato da questo profilo.
-* **Sito Web per Cliente:** Realizzato con stack `xeno.js` e integrazione `Brevo` per l'automazione dei flussi email e contatto.
+* **[Sito Web per Cliente](https://www.annascolta.it):** Realizzato con stack `xeno.js` e integrazione `Brevo` per l'automazione dei flussi email e contatto.
 
 ---
 
@@ -115,6 +115,6 @@ Framework open source modulare progettato secondo principi di **Clean Architectu
 
 ## Contatti
 
-* **Portfolio:** [tuosito.vercel.app](https://mv-tech-two.vercel.app)
+* **Portfolio:** [Visita il sito](https://mv-tech-two.vercel.app)
 * **LinkedIn:** [linkedin.com/in/mattia-carcione-developer](https://www.linkedin.com/in/mattia-carcione-developer/)
 * **Email:** [mattia.carcione01@gmail.com](mailto:mattia.carcione01@gmail.com)
